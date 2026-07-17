@@ -1,10 +1,12 @@
+.metric,.family-summary>div,.history-row>*{min-width:0}
+.metric strong{font-size:clamp(18px,4vw,25px);line-height:1.12;letter-spacing:-.35px;overflow-wrap:anywhere}
 .asset-total small{font-size:12px;line-height:1.65}
 .family-panel{margin-top:16px}
 .estimate-note{margin:-5px 0 20px;color:var(--muted);font-size:13px;line-height:1.7}
-.family-summary{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
-.family-summary>div{padding:16px;border-radius:16px;background:#fff6f8;border:1px solid #f4dce3}
+.family-summary{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.family-summary>div{min-width:0;padding:16px;border-radius:16px;background:#fff6f8;border:1px solid #f4dce3;overflow:hidden}
 .family-summary span,.family-summary small{display:block;color:var(--muted);font-size:12px}
-.family-summary strong{display:block;margin:8px 0 5px;font:700 20px Georgia,serif}
+.family-summary strong{display:block;margin:8px 0 5px;font:700 clamp(16px,2.2vw,20px)/1.15 Georgia,serif;letter-spacing:-.25px;overflow-wrap:anywhere}
 .goal{height:10px;margin:18px 0 24px;overflow:hidden;border-radius:10px;background:#f7e5ea}
 .goal span{display:block;height:100%;border-radius:10px;background:linear-gradient(90deg,var(--pink),var(--berry))}
 .history-head,.history-row{display:grid;grid-template-columns:1.1fr 1fr 1fr 1.25fr;gap:12px;align-items:center}
@@ -15,5 +17,5 @@
 .history-row time,.history-row b{color:var(--berry)}
 .history-row span{color:var(--muted)}
 .history-row strong{text-align:right;font:700 14px Georgia,serif}
-@media(max-width:760px){.family-summary{grid-template-columns:1fr 1fr}.history-head,.history-row{grid-template-columns:1.1fr 1fr 1.15fr}.history-head span:nth-child(3),.history-row span{display:none}.history-row{font-size:14px}.history-row strong{font-size:14px}}
-@media(max-width:390px){.family-summary{grid-template-columns:1fr}.history-head,.history-row{grid-template-columns:1fr 1fr 1.2fr;gap:7px}.history-head{font-size:10px}.history-row{padding:12px 9px}.history-row time,.history-row b,.history-row strong{font-size:12px}}
+@media(max-width:760px){.family-summary{grid-template-columns:repeat(2,minmax(0,1fr))}.family-summary>div{padding:14px 12px}.family-summary strong{font-size:clamp(16px,4vw,19px)}.history-head,.history-row{grid-template-columns:minmax(0,1.1fr) minmax(0,1fr) minmax(0,1.15fr)}.history-head span:nth-child(3),.history-row span{display:none}.history-row{font-size:14px}.history-row strong{font-size:14px;overflow-wrap:anywhere}.deposits+.metrics strong,.metrics strong{font-size:18px}}
+@media(max-width:390px){.family-summary{grid-template-columns:1fr}.history-head,.history-row{grid-template-columns:minmax(0,1fr) minmax(0,1fr) minmax(0,1.2fr);gap:7px}.history-head{font-size:10px}.history-row{padding:12px 9px}.history-row time,.history-row b,.history-row strong{font-size:12px}}
