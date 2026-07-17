@@ -288,6 +288,150 @@
     }
   ],
   "fixedMonthlyIncome": 8543.303731598173,
-  "syncedAt": "2026-07-17T07:02:00.290Z",
+  "familyTransfers": [
+    {
+      "id": "family-0",
+      "date": "2024-06-01",
+      "amount": 50000
+    },
+    {
+      "id": "family-1",
+      "date": "2024-07-01",
+      "amount": 25000
+    },
+    {
+      "id": "family-2",
+      "date": "2024-08-02",
+      "amount": 25000
+    },
+    {
+      "id": "family-3",
+      "date": "2024-09-02",
+      "amount": 25000
+    },
+    {
+      "id": "family-4",
+      "date": "2024-10-03",
+      "amount": 25000
+    },
+    {
+      "id": "family-5",
+      "date": "2024-11-03",
+      "amount": 25000
+    },
+    {
+      "id": "family-6",
+      "date": "2024-12-03",
+      "amount": 25000
+    },
+    {
+      "id": "family-7",
+      "date": "2025-01-02",
+      "amount": 30000
+    },
+    {
+      "id": "family-8",
+      "date": "2025-02-02",
+      "amount": 5000
+    },
+    {
+      "id": "family-9",
+      "date": "2025-02-03",
+      "amount": 20000
+    },
+    {
+      "id": "family-10",
+      "date": "2025-03-03",
+      "amount": 25000
+    },
+    {
+      "id": "family-11",
+      "date": "2025-04-02",
+      "amount": 25000
+    },
+    {
+      "id": "family-12",
+      "date": "2025-05-06",
+      "amount": 25000
+    },
+    {
+      "id": "family-13",
+      "date": "2025-06-03",
+      "amount": 25000
+    },
+    {
+      "id": "family-14",
+      "date": "2025-07-02",
+      "amount": 25000
+    },
+    {
+      "id": "family-15",
+      "date": "2025-08-01",
+      "amount": 25000
+    },
+    {
+      "id": "family-16",
+      "date": "2025-09-02",
+      "amount": 25000
+    },
+    {
+      "id": "family-17",
+      "date": "2025-10-03",
+      "amount": 25000
+    },
+    {
+      "id": "family-18",
+      "date": "2025-11-03",
+      "amount": 25000
+    },
+    {
+      "id": "family-19",
+      "date": "2025-12-03",
+      "amount": 25000
+    },
+    {
+      "id": "family-20",
+      "date": "2026-01-05",
+      "amount": 25000
+    },
+    {
+      "id": "family-21",
+      "date": "2026-02-03",
+      "amount": 25000
+    },
+    {
+      "id": "family-22",
+      "date": "2026-03-05",
+      "amount": 25000
+    },
+    {
+      "id": "family-23",
+      "date": "2026-04-01",
+      "amount": 25000
+    },
+    {
+      "id": "family-24",
+      "date": "2026-04-30",
+      "amount": 25000
+    },
+    {
+      "id": "family-25",
+      "date": "2026-06-01",
+      "amount": 25000
+    },
+    {
+      "id": "family-26",
+      "date": "2026-07-09",
+      "amount": 25000
+    }
+  ],
+  "familyPlan": {
+    "startingAssets": 5000000,
+    "target": 1000000,
+    "totalPaid": 680000,
+    "remainingToTarget": 320000,
+    "estimatedAssets": 4320000
+  },
+  "syncedAt": "2026-07-17T07:31:42.473Z",
   "month": "2026-07"
 }
