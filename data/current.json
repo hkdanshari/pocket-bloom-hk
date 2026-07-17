@@ -1,0 +1,293 @@
+{
+  "transactions": [
+    {
+      "id": "income-0",
+      "type": "income",
+      "name": "人工",
+      "amount": 32000,
+      "category": "人工"
+    },
+    {
+      "id": "expense-1",
+      "type": "expense",
+      "name": "Citibank",
+      "amount": 3485,
+      "category": "信用卡",
+      "due": "每月29日"
+    },
+    {
+      "id": "expense-2",
+      "type": "expense",
+      "name": "DBS",
+      "amount": 3982,
+      "category": "信用卡",
+      "due": "每月21日"
+    },
+    {
+      "id": "expense-3",
+      "type": "expense",
+      "name": "HSBC",
+      "amount": 4764.21,
+      "category": "信用卡",
+      "due": "每月10日"
+    },
+    {
+      "id": "expense-4",
+      "type": "expense",
+      "name": "AEON",
+      "amount": 79.3,
+      "category": "信用卡",
+      "due": "每月2日"
+    },
+    {
+      "id": "expense-5",
+      "type": "expense",
+      "name": "AE",
+      "amount": 1319.73,
+      "category": "信用卡",
+      "due": "每月9日"
+    },
+    {
+      "id": "expense-7",
+      "type": "expense",
+      "name": "電費",
+      "amount": 730,
+      "category": "生活帳單",
+      "due": "6月17日"
+    },
+    {
+      "id": "expense-8",
+      "type": "expense",
+      "name": "煤氣費",
+      "amount": 253,
+      "category": "生活帳單",
+      "due": "6月10日"
+    },
+    {
+      "id": "expense-9",
+      "type": "expense",
+      "name": "家姐",
+      "amount": 25000,
+      "category": "家庭"
+    },
+    {
+      "id": "expense-10",
+      "type": "expense",
+      "name": "租屋",
+      "amount": 18700,
+      "category": "住屋"
+    },
+    {
+      "id": "fixed-income-2026-07",
+      "type": "income",
+      "name": "定期利息（每月平均）",
+      "amount": 8543.303731598173,
+      "category": "定期收入"
+    }
+  ],
+  "deposits": [
+    {
+      "id": "deposit-1",
+      "bank": "Fubon",
+      "principal": 500000,
+      "interest": 3087.67,
+      "rate": "2.45%",
+      "startDate": "2026-05-06",
+      "maturityDate": "2026-08-06",
+      "status": "active"
+    },
+    {
+      "id": "deposit-3",
+      "bank": "Fubon",
+      "principal": 1262670.63,
+      "interest": 9229.6,
+      "rate": "2.90%",
+      "startDate": "2026-07-14",
+      "maturityDate": "2026-10-14",
+      "status": "active"
+    },
+    {
+      "id": "deposit-5",
+      "bank": "Fubon",
+      "principal": 500000,
+      "interest": 7771.23,
+      "rate": "3.05%",
+      "startDate": "2026-07-09",
+      "maturityDate": "2027-01-11",
+      "status": "active"
+    },
+    {
+      "id": "deposit-7",
+      "bank": "Citic",
+      "principal": 204406.22,
+      "interest": 1146.63,
+      "rate": "2.25%",
+      "startDate": "2026-04-27",
+      "maturityDate": "2026-07-27",
+      "status": "active"
+    },
+    {
+      "id": "deposit-9",
+      "bank": "Citic",
+      "principal": 180000,
+      "interest": 1054.6,
+      "rate": "2.35%",
+      "startDate": "2026-04-30",
+      "maturityDate": "2026-07-30",
+      "status": "active"
+    },
+    {
+      "id": "deposit-11",
+      "bank": "Citic",
+      "principal": 90000,
+      "interest": 630.44,
+      "rate": "2.72%",
+      "startDate": "2026-06-05",
+      "maturityDate": "2026-09-07",
+      "status": "active"
+    },
+    {
+      "id": "deposit-13",
+      "bank": "Citic",
+      "principal": 100000,
+      "interest": 693.04,
+      "rate": "2.72%",
+      "startDate": "2026-06-06",
+      "maturityDate": "2026-09-07",
+      "status": "active"
+    },
+    {
+      "id": "deposit-15",
+      "bank": "Citic",
+      "principal": 100000,
+      "interest": 685.59,
+      "rate": "2.72%",
+      "startDate": "2026-06-08",
+      "maturityDate": "2026-09-08",
+      "status": "active"
+    },
+    {
+      "id": "deposit-17",
+      "bank": "Citic",
+      "principal": 100000,
+      "interest": 685.59,
+      "rate": "2.72%",
+      "startDate": "2026-06-08",
+      "maturityDate": "2026-09-08",
+      "status": "active"
+    },
+    {
+      "id": "deposit-19",
+      "bank": "Citic",
+      "principal": 100000,
+      "interest": 680.55,
+      "rate": "2.70%",
+      "startDate": "2026-07-14",
+      "maturityDate": "2026-10-14",
+      "status": "active"
+    },
+    {
+      "id": "deposit-21",
+      "bank": "Citibank",
+      "principal": 100000,
+      "interest": 680.55,
+      "rate": "2.70%",
+      "startDate": "2026-06-09",
+      "maturityDate": "2026-09-09",
+      "status": "active"
+    },
+    {
+      "id": "deposit-23",
+      "bank": "Citibank",
+      "principal": 100000,
+      "interest": 688.11,
+      "rate": "2.73%",
+      "startDate": "2026-06-10",
+      "maturityDate": "2026-09-10",
+      "status": "active"
+    },
+    {
+      "id": "deposit-25",
+      "bank": "Citibank",
+      "principal": 100000,
+      "interest": 680.55,
+      "rate": "2.70%",
+      "startDate": "2026-06-11",
+      "maturityDate": "2026-09-11",
+      "status": "active"
+    },
+    {
+      "id": "deposit-27",
+      "bank": "Citibank",
+      "principal": 100000,
+      "interest": 680.55,
+      "rate": "2.70%",
+      "startDate": "2026-06-12",
+      "maturityDate": "2026-09-12",
+      "status": "active"
+    },
+    {
+      "id": "deposit-29",
+      "bank": "Citibank",
+      "principal": 100000,
+      "interest": 705.75,
+      "rate": "2.80%",
+      "startDate": "2026-06-15",
+      "maturityDate": "2026-09-15",
+      "status": "active"
+    },
+    {
+      "id": "deposit-31",
+      "bank": "Citibank",
+      "principal": 70000,
+      "interest": 529.32,
+      "rate": "3%",
+      "startDate": "2026-07-09",
+      "maturityDate": "2026-10-09",
+      "status": "active"
+    },
+    {
+      "id": "deposit-33",
+      "bank": "Citibank",
+      "principal": 208695.388,
+      "interest": 506.9448,
+      "rate": "2.65%",
+      "startDate": "2026-04-23",
+      "maturityDate": "2027-05-26",
+      "status": "active"
+    },
+    {
+      "id": "investment-35",
+      "bank": "StashAway",
+      "principal": 207462.1,
+      "interest": 18384.24,
+      "rate": "",
+      "startDate": "2026-06-17",
+      "maturityDate": "",
+      "status": "investment"
+    },
+    {
+      "id": "investment-36",
+      "bank": "牛牛(證劵)",
+      "principal": 75746.63,
+      "interest": 0,
+      "rate": "",
+      "startDate": "2026-06-17",
+      "maturityDate": "",
+      "status": "investment"
+    },
+    {
+      "id": "investment-37",
+      "bank": "銀債",
+      "principal": 200000,
+      "interest": 0,
+      "rate": "",
+      "startDate": "2024-10-01",
+      "maturityDate": "",
+      "status": "investment"
+    }
+  ],
+  "fixedMonthlyIncome": 8543.303731598173,
+  "syncedAt": "2026-07-17T06:30:21.852Z",
+  "month": "2026-07"
+}
