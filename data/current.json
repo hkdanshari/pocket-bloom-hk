@@ -11,7 +11,7 @@
       "id": "expense-1",
       "type": "expense",
       "name": "Citibank",
-      "amount": 3485,
+      "amount": 2983,
       "category": "信用卡",
       "due": "每月29日"
     },
@@ -19,7 +19,7 @@
       "id": "expense-2",
       "type": "expense",
       "name": "DBS",
-      "amount": 3982,
+      "amount": 1389,
       "category": "信用卡",
       "due": "每月21日"
     },
@@ -40,15 +40,15 @@
       "due": "每月2日"
     },
     {
-      "id": "expense-5",
+      "id": "expense-6",
       "type": "expense",
-      "name": "AE",
-      "amount": 1319.73,
+      "name": "SC",
+      "amount": 1380.4,
       "category": "信用卡",
-      "due": "每月9日"
+      "due": "每月18日"
     },
     {
-      "id": "expense-7",
+      "id": "expense-8",
       "type": "expense",
       "name": "電費",
       "amount": 730,
@@ -56,7 +56,7 @@
       "due": "6月17日"
     },
     {
-      "id": "expense-8",
+      "id": "expense-9",
       "type": "expense",
       "name": "煤氣費",
       "amount": 253,
@@ -64,14 +64,14 @@
       "due": "6月10日"
     },
     {
-      "id": "expense-9",
+      "id": "expense-10",
       "type": "expense",
       "name": "家姐",
       "amount": 25000,
       "category": "家庭"
     },
     {
-      "id": "expense-10",
+      "id": "expense-11",
       "type": "expense",
       "name": "租屋",
       "amount": 18700,
@@ -81,7 +81,7 @@
       "id": "fixed-income-2026-07",
       "type": "income",
       "name": "定期利息（每月平均）",
-      "amount": 8668.048073377318,
+      "amount": 8850.440509464,
       "category": "定期收入"
     }
   ],
@@ -239,8 +239,8 @@
     {
       "id": "deposit-31",
       "bank": "Citibank",
-      "principal": 208695.388,
-      "interest": 506.9448,
+      "principal": 212094.2366,
+      "interest": 2891.9038,
       "rate": "2.65%",
       "startDate": "2026-04-23",
       "maturityDate": "2027-05-26",
@@ -277,7 +277,7 @@
       "status": "investment"
     }
   ],
-  "fixedMonthlyIncome": 8668.048073377318,
+  "fixedMonthlyIncome": 8850.440509464,
   "familyTransfers": [
     {
       "id": "family-0",
@@ -413,15 +413,20 @@
       "id": "family-26",
       "date": "2026-07-09",
       "amount": 25000
+    },
+    {
+      "id": "family-27",
+      "date": "2026-07-31",
+      "amount": 25000
     }
   ],
   "familyPlan": {
     "startingAssets": 5000000,
     "target": 1000000,
-    "totalPaid": 680000,
-    "remainingToTarget": 320000,
-    "estimatedAssets": 4320000
+    "totalPaid": 705000,
+    "remainingToTarget": 295000,
+    "estimatedAssets": 4295000
   },
-  "syncedAt": "2026-07-31T01:13:06.983Z",
+  "syncedAt": "2026-07-31T04:45:50.091Z",
   "month": "2026-07"
 }
