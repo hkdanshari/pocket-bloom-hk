@@ -81,7 +81,7 @@
       "id": "fixed-income-2026-07",
       "type": "income",
       "name": "定期利息（每月平均）",
-      "amount": 8850.440509464,
+      "amount": 8971.356786637914,
       "category": "定期收入"
     }
   ],
@@ -239,6 +239,16 @@
     {
       "id": "deposit-31",
       "bank": "Citibank",
+      "principal": 50000,
+      "interest": 365.48,
+      "rate": "2.90%",
+      "startDate": "2026-07-31",
+      "maturityDate": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "id": "deposit-33",
+      "bank": "Citibank",
       "principal": 212094.2366,
       "interest": 2891.9038,
       "rate": "2.65%",
@@ -247,7 +257,7 @@
       "status": "active"
     },
     {
-      "id": "investment-33",
+      "id": "investment-35",
       "bank": "StashAway",
       "principal": 207462.1,
       "interest": 18384.24,
@@ -257,7 +267,7 @@
       "status": "investment"
     },
     {
-      "id": "investment-34",
+      "id": "investment-36",
       "bank": "牛牛(證劵)",
       "principal": 75746.63,
       "interest": 0,
@@ -267,7 +277,7 @@
       "status": "investment"
     },
     {
-      "id": "investment-35",
+      "id": "investment-37",
       "bank": "銀債",
       "principal": 200000,
       "interest": 0,
@@ -277,7 +287,7 @@
       "status": "investment"
     }
   ],
-  "fixedMonthlyIncome": 8850.440509464,
+  "fixedMonthlyIncome": 8971.356786637914,
   "familyTransfers": [
     {
       "id": "family-0",
@@ -427,6 +437,6 @@
     "remainingToTarget": 295000,
     "estimatedAssets": 4295000
   },
-  "syncedAt": "2026-07-31T04:45:50.091Z",
+  "syncedAt": "2026-07-31T07:40:06.029Z",
   "month": "2026-07"
 }
