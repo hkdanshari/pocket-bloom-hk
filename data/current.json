@@ -78,7 +78,7 @@
       "category": "住屋"
     },
     {
-      "id": "fixed-income-2026-08",
+      "id": "fixed-income-2026-09",
       "type": "income",
       "name": "定期利息（每月平均）",
       "amount": 9158.984123594437,
@@ -437,6 +437,6 @@
     "remainingToTarget": 295000,
     "estimatedAssets": 4295000
   },
-  "syncedAt": "2026-08-31T14:25:40.256Z",
-  "month": "2026-08"
+  "syncedAt": "2026-08-31T20:17:32.563Z",
+  "month": "2026-09"
 }
