@@ -428,15 +428,20 @@
       "id": "family-27",
       "date": "2026-07-31",
       "amount": 25000
+    },
+    {
+      "id": "family-28",
+      "date": "2026-09-01",
+      "amount": 25000
     }
   ],
   "familyPlan": {
     "startingAssets": 5000000,
     "target": 1000000,
-    "totalPaid": 705000,
-    "remainingToTarget": 295000,
-    "estimatedAssets": 4295000
+    "totalPaid": 730000,
+    "remainingToTarget": 270000,
+    "estimatedAssets": 4270000
   },
-  "syncedAt": "2026-08-31T23:56:04.057Z",
+  "syncedAt": "2026-09-01T04:36:07.562Z",
   "month": "2026-09"
 }
