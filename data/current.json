@@ -81,7 +81,7 @@
       "id": "fixed-income-2026-09",
       "type": "income",
       "name": "定期利息（每月平均）",
-      "amount": 9158.984123594437,
+      "amount": 9106.199692720986,
       "category": "定期收入"
     }
   ],
@@ -118,46 +118,16 @@
     },
     {
       "id": "deposit-7",
-      "bank": "Citic",
-      "principal": 90000,
-      "interest": 630.44,
-      "rate": "2.72%",
-      "startDate": "2026-06-05",
-      "maturityDate": "2026-09-07",
+      "bank": "HSBC",
+      "principal": 350000,
+      "interest": 2486.92,
+      "rate": "2.85%",
+      "startDate": "2026-09-08",
+      "maturityDate": "2026-12-08",
       "status": "active"
     },
     {
       "id": "deposit-9",
-      "bank": "Citic",
-      "principal": 100000,
-      "interest": 693.04,
-      "rate": "2.72%",
-      "startDate": "2026-06-06",
-      "maturityDate": "2026-09-07",
-      "status": "active"
-    },
-    {
-      "id": "deposit-11",
-      "bank": "Citic",
-      "principal": 100000,
-      "interest": 685.59,
-      "rate": "2.72%",
-      "startDate": "2026-06-08",
-      "maturityDate": "2026-09-08",
-      "status": "active"
-    },
-    {
-      "id": "deposit-13",
-      "bank": "Citic",
-      "principal": 100000,
-      "interest": 685.59,
-      "rate": "2.72%",
-      "startDate": "2026-06-08",
-      "maturityDate": "2026-09-08",
-      "status": "active"
-    },
-    {
-      "id": "deposit-15",
       "bank": "Citic",
       "principal": 100000,
       "interest": 680.55,
@@ -167,7 +137,7 @@
       "status": "active"
     },
     {
-      "id": "deposit-17",
+      "id": "deposit-11",
       "bank": "Citibank",
       "principal": 100000,
       "interest": 680.55,
@@ -177,7 +147,7 @@
       "status": "active"
     },
     {
-      "id": "deposit-19",
+      "id": "deposit-13",
       "bank": "Citibank",
       "principal": 100000,
       "interest": 688.11,
@@ -187,7 +157,7 @@
       "status": "active"
     },
     {
-      "id": "deposit-21",
+      "id": "deposit-15",
       "bank": "Citibank",
       "principal": 100000,
       "interest": 680.55,
@@ -197,7 +167,7 @@
       "status": "active"
     },
     {
-      "id": "deposit-23",
+      "id": "deposit-17",
       "bank": "Citibank",
       "principal": 100000,
       "interest": 680.55,
@@ -207,7 +177,7 @@
       "status": "active"
     },
     {
-      "id": "deposit-25",
+      "id": "deposit-19",
       "bank": "Citibank",
       "principal": 100000,
       "interest": 705.75,
@@ -217,7 +187,7 @@
       "status": "active"
     },
     {
-      "id": "deposit-27",
+      "id": "deposit-21",
       "bank": "Citibank",
       "principal": 70000,
       "interest": 529.32,
@@ -227,7 +197,7 @@
       "status": "active"
     },
     {
-      "id": "deposit-29",
+      "id": "deposit-23",
       "bank": "Citibank",
       "principal": 350000,
       "interest": 2602.47,
@@ -237,7 +207,7 @@
       "status": "active"
     },
     {
-      "id": "deposit-31",
+      "id": "deposit-25",
       "bank": "Citibank",
       "principal": 50000,
       "interest": 365.48,
@@ -247,7 +217,7 @@
       "status": "active"
     },
     {
-      "id": "deposit-33",
+      "id": "deposit-27",
       "bank": "Citibank",
       "principal": 212094.2366,
       "interest": 2891.9038,
@@ -257,7 +227,7 @@
       "status": "active"
     },
     {
-      "id": "investment-35",
+      "id": "investment-29",
       "bank": "StashAway",
       "principal": 207462.1,
       "interest": 18384.24,
@@ -267,7 +237,7 @@
       "status": "investment"
     },
     {
-      "id": "investment-36",
+      "id": "investment-30",
       "bank": "牛牛(證劵)",
       "principal": 75746.63,
       "interest": 0,
@@ -277,7 +247,7 @@
       "status": "investment"
     },
     {
-      "id": "investment-37",
+      "id": "investment-31",
       "bank": "銀債",
       "principal": 200000,
       "interest": 0,
@@ -287,7 +257,7 @@
       "status": "investment"
     }
   ],
-  "fixedMonthlyIncome": 9158.984123594437,
+  "fixedMonthlyIncome": 9106.199692720986,
   "familyTransfers": [
     {
       "id": "family-0",
@@ -442,6 +412,6 @@
     "remainingToTarget": 270000,
     "estimatedAssets": 4270000
   },
-  "syncedAt": "2026-09-08T01:10:04.189Z",
+  "syncedAt": "2026-09-08T05:58:49.183Z",
   "month": "2026-09"
 }
