@@ -78,10 +78,10 @@
       "category": "住屋"
     },
     {
-      "id": "fixed-income-2026-10",
+      "id": "fixed-income-2026-11",
       "type": "income",
       "name": "定期利息（每月平均）",
-      "amount": 9142.083222044921,
+      "amount": 8160.159546773181,
       "category": "定期收入"
     }
   ],
@@ -207,7 +207,7 @@
       "status": "investment"
     }
   ],
-  "fixedMonthlyIncome": 9142.083222044921,
+  "fixedMonthlyIncome": 8160.159546773181,
   "familyTransfers": [
     {
       "id": "family-0",
@@ -362,6 +362,6 @@
     "remainingToTarget": 270000,
     "estimatedAssets": 4270000
   },
-  "syncedAt": "2026-10-31T13:50:57.219Z",
-  "month": "2026-10"
+  "syncedAt": "2026-10-31T18:04:35.367Z",
+  "month": "2026-11"
 }
