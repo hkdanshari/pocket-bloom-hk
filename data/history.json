@@ -1710,23 +1710,13 @@
         "id": "fixed-income-2026-11",
         "type": "income",
         "name": "定期利息（每月平均）",
-        "amount": 8160.159546773181,
+        "amount": 9024.003175205875,
         "category": "定期收入"
       }
     ],
     "deposits": [
       {
         "id": "deposit-1",
-        "bank": "Fubon",
-        "principal": 500000,
-        "interest": 3654.79,
-        "rate": "2.90%",
-        "startDate": "2026-08-06",
-        "maturityDate": "2026-11-06",
-        "status": "active"
-      },
-      {
-        "id": "deposit-3",
         "bank": "Fubon",
         "principal": 500000,
         "interest": 7771.23,
@@ -1736,13 +1726,23 @@
         "status": "active"
       },
       {
-        "id": "deposit-5",
+        "id": "deposit-3",
         "bank": "Fubon",
         "principal": 1271900.23,
         "interest": 9617.66,
         "rate": "3.00%",
         "startDate": "2026-10-14",
         "maturityDate": "2027-01-14",
+        "status": "active"
+      },
+      {
+        "id": "deposit-5",
+        "bank": "Fubon",
+        "principal": 503064.79,
+        "interest": 5044.43,
+        "rate": "3.00%",
+        "startDate": "2026-11-06",
+        "maturityDate": "2027-03-08",
         "status": "active"
       },
       {
@@ -1779,54 +1779,44 @@
         "id": "deposit-13",
         "bank": "Citibank",
         "principal": 350000,
-        "interest": 2602.47,
-        "rate": "2.95%",
-        "startDate": "2026-07-30",
-        "maturityDate": "2026-10-30",
+        "interest": 2646.58,
+        "rate": "3.00%",
+        "startDate": "2026-10-30",
+        "maturityDate": "2027-01-30",
         "status": "active"
       },
       {
         "id": "deposit-15",
         "bank": "Citibank",
-        "principal": 50000,
-        "interest": 365.48,
-        "rate": "2.90%",
-        "startDate": "2026-07-31",
-        "maturityDate": "2026-10-31",
-        "status": "active"
-      },
-      {
-        "id": "deposit-17",
-        "bank": "Citibank",
-        "principal": 212094.2366,
+        "principal": 209202.3328,
         "interest": 2891.9038,
         "rate": "2.65%",
-        "startDate": "2026-04-23",
-        "maturityDate": "2027-05-26",
+        "startDate": "2026-05-26",
+        "maturityDate": "2027-11-27",
         "status": "active"
       },
       {
-        "id": "investment-19",
+        "id": "investment-16",
         "bank": "StashAway",
-        "principal": 207462.1,
-        "interest": 18384.24,
-        "rate": "",
-        "startDate": "2026-06-17",
-        "maturityDate": "",
-        "status": "investment"
-      },
-      {
-        "id": "investment-20",
-        "bank": "牛牛(證劵)",
-        "principal": 75746.63,
+        "principal": 219819.71,
         "interest": 0,
         "rate": "",
-        "startDate": "2026-06-17",
+        "startDate": "2026-11-06",
         "maturityDate": "",
         "status": "investment"
       },
       {
-        "id": "investment-21",
+        "id": "investment-17",
+        "bank": "牛牛(證劵)",
+        "principal": 71530.79,
+        "interest": 0,
+        "rate": "",
+        "startDate": "2026-11-06",
+        "maturityDate": "",
+        "status": "investment"
+      },
+      {
+        "id": "investment-18",
         "bank": "銀債",
         "principal": 200000,
         "interest": 0,
@@ -1836,7 +1826,7 @@
         "status": "investment"
       }
     ],
-    "fixedMonthlyIncome": 8160.159546773181,
+    "fixedMonthlyIncome": 9024.003175205875,
     "familyTransfers": [
       {
         "id": "family-0",
@@ -1991,7 +1981,7 @@
       "remainingToTarget": 270000,
       "estimatedAssets": 4270000
     },
-    "syncedAt": "2026-11-06T03:03:16.946Z",
+    "syncedAt": "2026-11-06T10:45:04.083Z",
     "month": "2026-11"
   }
 }
