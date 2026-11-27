@@ -81,7 +81,7 @@
       "id": "fixed-income-2026-11",
       "type": "income",
       "name": "定期利息（每月平均）",
-      "amount": 9024.003175205875,
+      "amount": 9435.994797490206,
       "category": "定期收入"
     }
   ],
@@ -159,11 +159,11 @@
     {
       "id": "deposit-15",
       "bank": "Citibank",
-      "principal": 209202.3328,
-      "interest": 2891.9038,
+      "principal": 212094.2366,
+      "interest": 1766.6046,
       "rate": "2.65%",
-      "startDate": "2026-05-26",
-      "maturityDate": "2027-11-27",
+      "startDate": "2026-11-27",
+      "maturityDate": "2027-03-01",
       "status": "active"
     },
     {
@@ -197,7 +197,7 @@
       "status": "investment"
     }
   ],
-  "fixedMonthlyIncome": 9024.003175205875,
+  "fixedMonthlyIncome": 9435.994797490206,
   "familyTransfers": [
     {
       "id": "family-0",
@@ -352,6 +352,6 @@
     "remainingToTarget": 270000,
     "estimatedAssets": 4270000
   },
-  "syncedAt": "2026-11-27T05:25:43.226Z",
+  "syncedAt": "2026-11-27T15:28:53.973Z",
   "month": "2026-11"
 }
